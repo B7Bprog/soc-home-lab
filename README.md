@@ -1,4 +1,4 @@
-# SOC Home Lab Portfolio
+# SOC Lab & Investigations Portfolio
 
 A hands-on security operations lab built to develop and demonstrate practical SOC analyst skills - from setting up a SIEM and forwarding real logs, to simulating attacks, detecting them, and documenting findings as structured investigations.
 
