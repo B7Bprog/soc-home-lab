@@ -97,4 +97,4 @@ soc-home-lab/
 ## Contact
 
 Open to SOC analyst opportunities in the Netherlands.  
-Connect with me on <a href="https://www.linkedin.com/in/belabertalan" target="_blank">LinkedIn</a> or reach out via GitHub.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/belabertalan) or reach out via GitHub.
